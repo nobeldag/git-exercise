@@ -1,0 +1,3 @@
+user.name = "Your Name"
+user.email = "your@email.com"
+core.editor = "code --wait"
